@@ -1,4 +1,4 @@
-# DevTechTriad Organization Readme
+# DevTechTriad Organization Readme 
 
 ## Welcome to the DevTechTriad Organization!
 
